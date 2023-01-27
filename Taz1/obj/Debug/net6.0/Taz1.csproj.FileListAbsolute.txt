@@ -1,0 +1,15 @@
+/Users/mrphilips/Documents/DZ3/Taz1/bin/Debug/net6.0/Taz1
+/Users/mrphilips/Documents/DZ3/Taz1/bin/Debug/net6.0/Taz1.deps.json
+/Users/mrphilips/Documents/DZ3/Taz1/bin/Debug/net6.0/Taz1.runtimeconfig.json
+/Users/mrphilips/Documents/DZ3/Taz1/bin/Debug/net6.0/Taz1.dll
+/Users/mrphilips/Documents/DZ3/Taz1/bin/Debug/net6.0/Taz1.pdb
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.csproj.AssemblyReference.cache
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.AssemblyInfoInputs.cache
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.AssemblyInfo.cs
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.csproj.CoreCompileInputs.cache
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.dll
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/refint/Taz1.dll
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.pdb
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/Taz1.genruntimeconfig.cache
+/Users/mrphilips/Documents/DZ3/Taz1/obj/Debug/net6.0/ref/Taz1.dll
